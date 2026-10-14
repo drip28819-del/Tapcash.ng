@@ -1,6 +1,11 @@
 # TapCash 💸
 
-TapCash is an interactive application designed to allow users to build and earn[span_0](start_span)[span_0](end_span). 
+TapCash is an interactive application designed to allow users to build and earn
+## Project Roadmap 🚀
+* **Core Concept:** A tapping platform where users can tap coins and earn rewards[span_2](start_span)[span_2](end_span).
+* **Phase 1:** Planning the user dashboard and tap mechanics.
+* **Phase 2:** Building the frontend interface.
+* **Phase 3:** Setting up user rewards and backend logic.
 
 ## Features
 * **Interactive Tapping:** Smooth and responsive tap mechanics.
